@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+langchain
+openai
+httpx
+requests
+python-dotenv
+regex
